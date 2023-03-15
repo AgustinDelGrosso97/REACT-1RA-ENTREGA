@@ -1,0 +1,15 @@
+.Navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h1 {
+    color: brown;
+    text-decoration: underline;
+}
+
+
+.titulo{
+    margin-top: 80px;
+}
